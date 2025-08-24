@@ -6,8 +6,8 @@ EduRoute is an interactive mapping application that blends **navigation** with *
 
 <!-- First two screenshots side by side with same height -->
 <p align="center">
-  <img height="360" alt="Screenshot 2025-08-24 at 9 28 37 AM" src="https://github.com/user-attachments/assets/2c70650a-a1ef-4354-8d41-de55fdf54d91" />
-  <img height="360" alt="481380489-638a71ac-3732-4bcb-83e1-c48d9736aa2e" src="https://github.com/user-attachments/assets/8f5dfaca-eaf2-46aa-8b20-d43f52718992" />
+  <img height="300" alt="Screenshot 2025-08-24 at 9 28 37 AM" src="https://github.com/user-attachments/assets/2c70650a-a1ef-4354-8d41-de55fdf54d91" />
+  <img height="300" alt="481380489-638a71ac-3732-4bcb-83e1-c48d9736aa2e" src="https://github.com/user-attachments/assets/8f5dfaca-eaf2-46aa-8b20-d43f52718992" />
 </p>
 
 ---
