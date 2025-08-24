@@ -82,3 +82,10 @@ EduRoute uses a custom set of icons designed for **simplicity** and **clarity**.
 <p align="center">
   <img height="300" src="https://github.com/user-attachments/assets/9bd88576-5269-4cee-aba2-42cb517ebd93" alt="App Icons" />
 </p>
+
+---
+## 📌 Disclaimer  
+This project was developed as part of the **ECE297 Software Design & Communication** course at the **University of Toronto**.  
+All source code and implementation details are property of the University of Toronto and are **not included** in this repository.  
+
+This repository is intended solely to showcase the **user interface, design decisions, and overall concept** of EduRoute.  
